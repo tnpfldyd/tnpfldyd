@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 ![tnpfldyd GitHub stats](https://github-readme-stats.vercel.app/api?username=tnpfldyd&show_icons=true&theme=dark)  
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tnpfldyd)](https://solved.ac/tnpfldyd/)  
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Ftnpfldyd&label=Visitors&icon=music-note&color=%239eeaf9)
+<br>
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Ftnpfldyd&label=Visitors&icon=music-note&color=%239eeaf9)  
 
 <a href="https://github.com/devxb/gitanimals">
 <img
